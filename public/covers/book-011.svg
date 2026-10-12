@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="360" viewBox="0 0 240 360" role="img" aria-labelledby="title">
+<title id="title">Властелин колец — Джон Р. Р. Толкин</title>
+<rect width="240" height="360" fill="#3e565d"/>
+<path d="M8 0V360" stroke="#000" opacity=".12" stroke-width="5"/>
+<rect x="17" y="14" width="206" height="332" fill="none" stroke="#e9d7a7" opacity=".35"/>
+<text x="120" y="29" text-anchor="middle" fill="#e9d7a7" font-family="Arial, sans-serif" font-size="8.5" letter-spacing="1.2">ДЖОН Р. Р. ТОЛКИН</text><text x="120" y="82" text-anchor="middle" fill="#e9d7a7" font-family="Georgia, serif" font-size="25.0" letter-spacing="1">ВЛАСТЕЛИН</text><text x="120" y="115" text-anchor="middle" fill="#e9d7a7" font-family="Georgia, serif" font-size="25.0" letter-spacing="1">КОЛЕЦ</text><path d="M55 287L120 165L185 287Z" fill="#8da297"/><circle cx="120" cy="223" r="39" fill="none" stroke="#e9d7a7" stroke-width="1.5"/><path d="M30 304H210M120 143V309" stroke="#e9d7a7" stroke-width="1"/><circle cx="120" cy="223" r="17" fill="#3e565d"/>
+<text x="120" y="329" text-anchor="middle" fill="#e9d7a7" font-family="Arial, sans-serif" font-size="6.5" letter-spacing="3">BOOKSHELF · 1954</text>
+</svg>

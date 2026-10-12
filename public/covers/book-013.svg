@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="360" viewBox="0 0 240 360" role="img" aria-labelledby="title">
+<title id="title">Сто лет одиночества — Габриэль Гарсиа Маркес</title>
+<rect width="240" height="360" fill="#982f35"/>
+<path d="M8 0V360" stroke="#000" opacity=".12" stroke-width="5"/>
+<rect x="17" y="14" width="206" height="332" fill="none" stroke="#f2d9b8" opacity=".35"/>
+<text x="120" y="29" text-anchor="middle" fill="#f2d9b8" font-family="Arial, sans-serif" font-size="8.5" letter-spacing="1.2">ГАБРИЭЛЬ ГАРСИА МАРКЕС</text><text x="120" y="82" text-anchor="middle" fill="#f2d9b8" font-family="Georgia, serif" font-size="25.0" letter-spacing="1">СТО ЛЕТ</text><text x="120" y="115" text-anchor="middle" fill="#f2d9b8" font-family="Georgia, serif" font-size="25.0" letter-spacing="1">ОДИНОЧЕСТВА</text><path d="M63 296V217Q35 175 63 158Q91 175 63 217V296" fill="none" stroke="#f2d9b8" stroke-width="1.3"/><path d="M120 296V217Q92 175 120 158Q148 175 120 217V296" fill="none" stroke="#f2d9b8" stroke-width="1.3"/><path d="M177 296V217Q149 175 177 158Q205 175 177 217V296" fill="none" stroke="#f2d9b8" stroke-width="1.3"/><path d="M35 296H204" stroke="#f2d9b8"/>
+<text x="120" y="329" text-anchor="middle" fill="#f2d9b8" font-family="Arial, sans-serif" font-size="6.5" letter-spacing="3">BOOKSHELF · 1967</text>
+</svg>

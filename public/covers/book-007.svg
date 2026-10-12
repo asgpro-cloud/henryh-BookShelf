@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="360" viewBox="0 0 240 360" role="img" aria-labelledby="title">
+<title id="title">Краткая история времени — Стивен Хокинг</title>
+<rect width="240" height="360" fill="#ebe3ca"/>
+<path d="M8 0V360" stroke="#000" opacity=".12" stroke-width="5"/>
+<rect x="17" y="14" width="206" height="332" fill="none" stroke="#334d59" opacity=".35"/>
+<text x="120" y="29" text-anchor="middle" fill="#334d59" font-family="Arial, sans-serif" font-size="8.5" letter-spacing="1.2">СТИВЕН ХОКИНГ</text><text x="120" y="82" text-anchor="middle" fill="#334d59" font-family="Georgia, serif" font-size="25.0" letter-spacing="1">КРАТКАЯ</text><text x="120" y="115" text-anchor="middle" fill="#334d59" font-family="Georgia, serif" font-size="25.0" letter-spacing="1">ИСТОРИЯ</text><text x="120" y="148" text-anchor="middle" fill="#334d59" font-family="Georgia, serif" font-size="25.0" letter-spacing="1">ВРЕМЕНИ</text><circle cx="120" cy="237" r="59" fill="#9aa99c"/><ellipse cx="120" cy="237" rx="95" ry="24" fill="none" stroke="#334d59" transform="rotate(-25 120 237)"/><ellipse cx="120" cy="237" rx="28" ry="78" fill="none" stroke="#334d59" transform="rotate(35 120 237)"/><circle cx="120" cy="237" r="6" fill="#334d59"/>
+<text x="120" y="329" text-anchor="middle" fill="#334d59" font-family="Arial, sans-serif" font-size="6.5" letter-spacing="3">BOOKSHELF · 1988</text>
+</svg>

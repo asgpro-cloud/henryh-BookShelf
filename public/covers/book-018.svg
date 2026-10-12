@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="360" viewBox="0 0 240 360" role="img" aria-labelledby="title">
+<title id="title">Джейн Эйр — Шарлотта Бронте</title>
+<rect width="240" height="360" fill="#233647"/>
+<path d="M8 0V360" stroke="#000" opacity=".12" stroke-width="5"/>
+<rect x="17" y="14" width="206" height="332" fill="none" stroke="#e7d9b7" opacity=".35"/>
+<text x="120" y="29" text-anchor="middle" fill="#e7d9b7" font-family="Arial, sans-serif" font-size="8.5" letter-spacing="1.2">ШАРЛОТТА БРОНТЕ</text><text x="120" y="82" text-anchor="middle" fill="#e7d9b7" font-family="Georgia, serif" font-size="25.0" letter-spacing="1">ДЖЕЙН</text><text x="120" y="115" text-anchor="middle" fill="#e7d9b7" font-family="Georgia, serif" font-size="25.0" letter-spacing="1">ЭЙР</text><circle cx="169" cy="190" r="40" fill="#e7d9b7" opacity=".65"/><path d="M0 268Q70 170 240 247V360H0Z" fill="#a4865b"/><path d="M0 315Q112 204 240 300V360H0Z" fill="#e7d9b7" opacity=".45"/><path d="M0 339Q125 260 240 331" fill="none" stroke="#233647" stroke-width="3"/>
+<text x="120" y="329" text-anchor="middle" fill="#e7d9b7" font-family="Arial, sans-serif" font-size="6.5" letter-spacing="3">BOOKSHELF · 1847</text>
+</svg>

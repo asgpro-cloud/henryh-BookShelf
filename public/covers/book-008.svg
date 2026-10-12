@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="360" viewBox="0 0 240 360" role="img" aria-labelledby="title">
+<title id="title">Маленький принц — Антуан де Сент-Экзюпери</title>
+<rect width="240" height="360" fill="#193e50"/>
+<path d="M8 0V360" stroke="#000" opacity=".12" stroke-width="5"/>
+<rect x="17" y="14" width="206" height="332" fill="none" stroke="#e2ca82" opacity=".35"/>
+<text x="120" y="29" text-anchor="middle" fill="#e2ca82" font-family="Arial, sans-serif" font-size="8.5" letter-spacing="1.2">АНТУАН ДЕ СЕНТ-ЭКЗЮПЕРИ</text><text x="120" y="82" text-anchor="middle" fill="#e2ca82" font-family="Georgia, serif" font-size="25.0" letter-spacing="1">МАЛЕНЬКИЙ</text><text x="120" y="115" text-anchor="middle" fill="#e2ca82" font-family="Georgia, serif" font-size="25.0" letter-spacing="1">ПРИНЦ</text><circle cx="120" cy="245" r="51" fill="#718c98"/><path d="M120 165L128 187L150 195L128 203L120 225L112 203L90 195L112 187Z" fill="#e2ca82"/><path d="M60 270L79 238L89 270M157 279L175 248L185 279" fill="none" stroke="#e2ca82" stroke-width="2"/><circle cx="52" cy="176" r="2" fill="#e2ca82"/><circle cx="188" cy="196" r="3" fill="#e2ca82"/>
+<text x="120" y="329" text-anchor="middle" fill="#e2ca82" font-family="Arial, sans-serif" font-size="6.5" letter-spacing="3">BOOKSHELF · 1943</text>
+</svg>

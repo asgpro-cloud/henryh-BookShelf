@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="360" viewBox="0 0 240 360" role="img" aria-labelledby="title">
+<title id="title">Алиса в Стране чудес — Льюис Кэрролл</title>
+<rect width="240" height="360" fill="#31353e"/>
+<path d="M8 0V360" stroke="#000" opacity=".12" stroke-width="5"/>
+<rect x="17" y="14" width="206" height="332" fill="none" stroke="#dfbd83" opacity=".35"/>
+<text x="120" y="29" text-anchor="middle" fill="#dfbd83" font-family="Arial, sans-serif" font-size="8.5" letter-spacing="1.2">ЛЬЮИС КЭРРОЛЛ</text><text x="120" y="82.0" text-anchor="middle" fill="#dfbd83" font-family="Georgia, serif" font-size="23.6" letter-spacing="1">АЛИСА</text><text x="120" y="113.57142857142857" text-anchor="middle" fill="#dfbd83" font-family="Georgia, serif" font-size="23.6" letter-spacing="1">В СТРАНЕ ЧУДЕС</text><circle cx="120" cy="245" r="51" fill="#a35c48"/><path d="M120 165L128 187L150 195L128 203L120 225L112 203L90 195L112 187Z" fill="#dfbd83"/><path d="M60 270L79 238L89 270M157 279L175 248L185 279" fill="none" stroke="#dfbd83" stroke-width="2"/><circle cx="52" cy="176" r="2" fill="#dfbd83"/><circle cx="188" cy="196" r="3" fill="#dfbd83"/>
+<text x="120" y="329" text-anchor="middle" fill="#dfbd83" font-family="Arial, sans-serif" font-size="6.5" letter-spacing="3">BOOKSHELF · 1865</text>
+</svg>

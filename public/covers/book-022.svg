@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="360" viewBox="0 0 240 360" role="img" aria-labelledby="title">
+<title id="title">Приключения Шерлока Холмса — Артур Конан Дойл</title>
+<rect width="240" height="360" fill="#717c59"/>
+<path d="M8 0V360" stroke="#000" opacity=".12" stroke-width="5"/>
+<rect x="17" y="14" width="206" height="332" fill="none" stroke="#f4e9c9" opacity=".35"/>
+<text x="120" y="29" text-anchor="middle" fill="#f4e9c9" font-family="Arial, sans-serif" font-size="8.5" letter-spacing="1.2">АРТУР КОНАН ДОЙЛ</text><text x="120" y="82" text-anchor="middle" fill="#f4e9c9" font-family="Georgia, serif" font-size="25.0" letter-spacing="1">ПРИКЛЮЧЕНИЯ</text><text x="120" y="115" text-anchor="middle" fill="#f4e9c9" font-family="Georgia, serif" font-size="25.0" letter-spacing="1">ШЕРЛОКА</text><text x="120" y="148" text-anchor="middle" fill="#f4e9c9" font-family="Georgia, serif" font-size="25.0" letter-spacing="1">ХОЛМСА</text><path d="M58 302V219A62 62 0 0 1 182 219V302Z" fill="#b1b596"/><path d="M75 302V224A45 45 0 0 1 165 224V302M91 302V228A29 29 0 0 1 149 228V302M120 255V302" stroke="#f4e9c9" fill="none" stroke-width="1"/><circle cx="120" cy="216" r="9" fill="#f4e9c9"/>
+<text x="120" y="329" text-anchor="middle" fill="#f4e9c9" font-family="Arial, sans-serif" font-size="6.5" letter-spacing="3">BOOKSHELF · 1892</text>
+</svg>

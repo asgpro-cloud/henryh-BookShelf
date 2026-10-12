@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="360" viewBox="0 0 240 360" role="img" aria-labelledby="title">
+<title id="title">Хоббит — Джон Р. Р. Толкин</title>
+<rect width="240" height="360" fill="#315545"/>
+<path d="M8 0V360" stroke="#000" opacity=".12" stroke-width="5"/>
+<rect x="17" y="14" width="206" height="332" fill="none" stroke="#e5d6a3" opacity=".35"/>
+<text x="120" y="29" text-anchor="middle" fill="#e5d6a3" font-family="Arial, sans-serif" font-size="8.5" letter-spacing="1.2">ДЖОН Р. Р. ТОЛКИН</text><text x="120" y="82" text-anchor="middle" fill="#e5d6a3" font-family="Georgia, serif" font-size="42.0" letter-spacing="1">ХОББИТ</text><path d="M25 281L75 183L110 250L149 168L219 281Z" fill="#8fa876"/><path d="M41 299L85 223L127 278L170 220L203 299" fill="none" stroke="#e5d6a3" stroke-width="1.5"/><circle cx="126" cy="225" r="62" fill="none" stroke="#e5d6a3" stroke-width="1.5"/>
+<text x="120" y="329" text-anchor="middle" fill="#e5d6a3" font-family="Arial, sans-serif" font-size="6.5" letter-spacing="3">BOOKSHELF · 1937</text>
+</svg>

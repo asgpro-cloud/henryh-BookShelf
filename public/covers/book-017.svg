@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="360" viewBox="0 0 240 360" role="img" aria-labelledby="title">
+<title id="title">Солярис — Станислав Лем</title>
+<rect width="240" height="360" fill="#91aaa3"/>
+<path d="M8 0V360" stroke="#000" opacity=".12" stroke-width="5"/>
+<rect x="17" y="14" width="206" height="332" fill="none" stroke="#213d37" opacity=".35"/>
+<text x="120" y="29" text-anchor="middle" fill="#213d37" font-family="Arial, sans-serif" font-size="8.5" letter-spacing="1.2">СТАНИСЛАВ ЛЕМ</text><text x="120" y="82" text-anchor="middle" fill="#213d37" font-family="Georgia, serif" font-size="42.0" letter-spacing="1">СОЛЯРИС</text><circle cx="120" cy="230" r="63" fill="#cedac6"/><path d="M46 230Q120 158 194 230Q120 302 46 230Z" fill="#91aaa3"/><circle cx="120" cy="230" r="24" fill="#213d37"/><circle cx="120" cy="230" r="9" fill="#91aaa3"/>
+<text x="120" y="329" text-anchor="middle" fill="#213d37" font-family="Arial, sans-serif" font-size="6.5" letter-spacing="3">BOOKSHELF · 1961</text>
+</svg>

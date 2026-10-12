@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="360" viewBox="0 0 240 360" role="img" aria-labelledby="title">
+<title id="title">Убить пересмешника — Харпер Ли</title>
+<rect width="240" height="360" fill="#315545"/>
+<path d="M8 0V360" stroke="#000" opacity=".12" stroke-width="5"/>
+<rect x="17" y="14" width="206" height="332" fill="none" stroke="#e5d6a3" opacity=".35"/>
+<text x="120" y="29" text-anchor="middle" fill="#e5d6a3" font-family="Arial, sans-serif" font-size="8.5" letter-spacing="1.2">ХАРПЕР ЛИ</text><text x="120" y="82" text-anchor="middle" fill="#e5d6a3" font-family="Georgia, serif" font-size="25.0" letter-spacing="1">УБИТЬ</text><text x="120" y="115" text-anchor="middle" fill="#e5d6a3" font-family="Georgia, serif" font-size="25.0" letter-spacing="1">ПЕРЕСМЕШНИКА</text><circle cx="120" cy="245" r="51" fill="#8fa876"/><path d="M120 165L128 187L150 195L128 203L120 225L112 203L90 195L112 187Z" fill="#e5d6a3"/><path d="M60 270L79 238L89 270M157 279L175 248L185 279" fill="none" stroke="#e5d6a3" stroke-width="2"/><circle cx="52" cy="176" r="2" fill="#e5d6a3"/><circle cx="188" cy="196" r="3" fill="#e5d6a3"/>
+<text x="120" y="329" text-anchor="middle" fill="#e5d6a3" font-family="Arial, sans-serif" font-size="6.5" letter-spacing="3">BOOKSHELF · 1960</text>
+</svg>

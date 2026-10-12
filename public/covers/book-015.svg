@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="360" viewBox="0 0 240 360" role="img" aria-labelledby="title">
+<title id="title">Sapiens. Краткая история человечества — Юваль Ной Харари</title>
+<rect width="240" height="360" fill="#d7bd70"/>
+<path d="M8 0V360" stroke="#000" opacity=".12" stroke-width="5"/>
+<rect x="17" y="14" width="206" height="332" fill="none" stroke="#303e36" opacity=".35"/>
+<text x="120" y="29" text-anchor="middle" fill="#303e36" font-family="Arial, sans-serif" font-size="8.5" letter-spacing="1.2">ЮВАЛЬ НОЙ ХАРАРИ</text><text x="120" y="82.0" text-anchor="middle" fill="#303e36" font-family="Georgia, serif" font-size="22.0" letter-spacing="1">SAPIENS</text><text x="120" y="112.0" text-anchor="middle" fill="#303e36" font-family="Georgia, serif" font-size="22.0" letter-spacing="1">КРАТКАЯ ИСТОРИЯ</text><text x="120" y="142.0" text-anchor="middle" fill="#303e36" font-family="Georgia, serif" font-size="22.0" letter-spacing="1">ЧЕЛОВЕЧЕСТВА</text><circle cx="120" cy="237" r="59" fill="#af6945"/><ellipse cx="120" cy="237" rx="95" ry="24" fill="none" stroke="#303e36" transform="rotate(-25 120 237)"/><ellipse cx="120" cy="237" rx="28" ry="78" fill="none" stroke="#303e36" transform="rotate(35 120 237)"/><circle cx="120" cy="237" r="6" fill="#303e36"/>
+<text x="120" y="329" text-anchor="middle" fill="#303e36" font-family="Arial, sans-serif" font-size="6.5" letter-spacing="3">BOOKSHELF · 2011</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="360" viewBox="0 0 240 360" role="img" aria-labelledby="title">
+<title id="title">Имя розы — Умберто Эко</title>
+<rect width="240" height="360" fill="#c88952"/>
+<path d="M8 0V360" stroke="#000" opacity=".12" stroke-width="5"/>
+<rect x="17" y="14" width="206" height="332" fill="none" stroke="#292d30" opacity=".35"/>
+<text x="120" y="29" text-anchor="middle" fill="#292d30" font-family="Arial, sans-serif" font-size="8.5" letter-spacing="1.2">УМБЕРТО ЭКО</text><text x="120" y="82" text-anchor="middle" fill="#292d30" font-family="Georgia, serif" font-size="25.0" letter-spacing="1">ИМЯ</text><text x="120" y="115" text-anchor="middle" fill="#292d30" font-family="Georgia, serif" font-size="25.0" letter-spacing="1">РОЗЫ</text><path d="M58 302V219A62 62 0 0 1 182 219V302Z" fill="#edc591"/><path d="M75 302V224A45 45 0 0 1 165 224V302M91 302V228A29 29 0 0 1 149 228V302M120 255V302" stroke="#292d30" fill="none" stroke-width="1"/><circle cx="120" cy="216" r="9" fill="#292d30"/>
+<text x="120" y="329" text-anchor="middle" fill="#292d30" font-family="Arial, sans-serif" font-size="6.5" letter-spacing="3">BOOKSHELF · 1980</text>
+</svg>

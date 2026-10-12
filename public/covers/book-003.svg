@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="360" viewBox="0 0 240 360" role="img" aria-labelledby="title">
+<title id="title">Мастер и Маргарита — Михаил Булгаков</title>
+<rect width="240" height="360" fill="#d7bd70"/>
+<path d="M8 0V360" stroke="#000" opacity=".12" stroke-width="5"/>
+<rect x="17" y="14" width="206" height="332" fill="none" stroke="#303e36" opacity=".35"/>
+<text x="120" y="29" text-anchor="middle" fill="#303e36" font-family="Arial, sans-serif" font-size="8.5" letter-spacing="1.2">МИХАИЛ БУЛГАКОВ</text><text x="120" y="82" text-anchor="middle" fill="#303e36" font-family="Georgia, serif" font-size="25.0" letter-spacing="1">МАСТЕР И</text><text x="120" y="115" text-anchor="middle" fill="#303e36" font-family="Georgia, serif" font-size="25.0" letter-spacing="1">МАРГАРИТА</text><path d="M55 287L120 165L185 287Z" fill="#af6945"/><circle cx="120" cy="223" r="39" fill="none" stroke="#303e36" stroke-width="1.5"/><path d="M30 304H210M120 143V309" stroke="#303e36" stroke-width="1"/><circle cx="120" cy="223" r="17" fill="#d7bd70"/>
+<text x="120" y="329" text-anchor="middle" fill="#303e36" font-family="Arial, sans-serif" font-size="6.5" letter-spacing="3">BOOKSHELF · 1967</text>
+</svg>
